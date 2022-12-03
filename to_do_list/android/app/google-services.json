@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979198442574",
+    "project_id": "todoaplikacija-72a83",
+    "storage_bucket": "todoaplikacija-72a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979198442574:android:568b0379ab399bc031571f",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979198442574-s769huhj3jlosar0dnr1s53ujdnp7p7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2-qMzzjep4RyNpMCpBWjEUzg7MqvOpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979198442574-s769huhj3jlosar0dnr1s53ujdnp7p7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
